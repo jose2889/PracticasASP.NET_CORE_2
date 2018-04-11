@@ -1,0 +1,12 @@
+C:\Users\José\source\repos\login2\login2\bin\Debug\netcoreapp2.0\login2.deps.json
+C:\Users\José\source\repos\login2\login2\bin\Debug\netcoreapp2.0\login2.runtimeconfig.json
+C:\Users\José\source\repos\login2\login2\bin\Debug\netcoreapp2.0\login2.runtimeconfig.dev.json
+C:\Users\José\source\repos\login2\login2\bin\Debug\netcoreapp2.0\login2.dll
+C:\Users\José\source\repos\login2\login2\bin\Debug\netcoreapp2.0\login2.pdb
+C:\Users\José\source\repos\login2\login2\obj\Debug\netcoreapp2.0\login2.csprojResolveAssemblyReference.cache
+C:\Users\José\source\repos\login2\login2\obj\Debug\netcoreapp2.0\login2.csproj.CoreCompileInputs.cache
+C:\Users\José\source\repos\login2\login2\obj\Debug\netcoreapp2.0\login2.AssemblyInfoInputs.cache
+C:\Users\José\source\repos\login2\login2\obj\Debug\netcoreapp2.0\login2.AssemblyInfo.cs
+C:\Users\José\source\repos\login2\login2\obj\Debug\netcoreapp2.0\login2.dll
+C:\Users\José\source\repos\login2\login2\obj\Debug\netcoreapp2.0\login2.pdb
+C:\Users\José\source\repos\login2\login2\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
